@@ -19,19 +19,32 @@
 **Summary of Classes Used:**
 
   _Student Class:_    To define attributes of a student
+  
   _Subject Class:_    To define attributes of a subject
+  
   _Record Class:_    To define attributes for student records like enrollment, grades, attendance etc.
+  
   _SystemManager Class:_ To perform various method of Student Management System. This class has following methods
+  
       1.    AddStudent()
+      
       2.    AddSubject()
+      
       3.    AddRecord()
+      
       4.    Enroll()
+      
       5.    AddGrades()
+      
       6.    MarkAttendance()
+      
       7.    GenerateReport()
+      
       8.    Read_Data_Files()
+      
       9.    Write_Data_Files()
 
   **Default Record**
+      
       This project has some default dataset of students, subjects and record that can be viewed after running the programe and selecting option-7 i.e. View all students.
 
