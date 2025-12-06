@@ -1,0 +1,6 @@
+Code       | Name            | Credits
+
+AI-853     | Adv Python      | 4
+CSE-848    | GenAI           | 3
+EE-826     | LCS             | 3
+RAI-832    | ML              | 2

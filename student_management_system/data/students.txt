@@ -1,0 +1,11 @@
+ID         | Name            | Section
+
+1001       | Ali             | RAI-24
+1002       | Saba            | RAI-24
+1003       | Naveed          | RAI-25
+1004       | Ubaid           | RAI-25
+1005       | Iqbal           | RAI-24
+1006       | Uzair           | RAI-25
+1007       | Umair           | RAI-24
+1008       | Zeeshan         | RAI-24
+2001       | Raza            | RAI-24
