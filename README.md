@@ -17,6 +17,7 @@
   Data is stored in plain text files as per the requirement.
 
 **Summary of Classes Used:**
+
   _Student Class:_    To define attributes of a student
   _Subject Class:_    To define attributes of a subject
   _Record Class:_    To define attributes for student records like enrollment, grades, attendance etc.
